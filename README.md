@@ -1,6 +1,6 @@
 ## Привет👋 
 ### Меня зовут Владислав, я начинающий веб-разработчик, выпускник Яндекс.Практикума.  
-Здесь Вы можете найти ссылки на мои учебные проекты, а также сайты, которые я делал для друзей и себя. 
+Здесь Вы можете найти репозитории с моими учебными проектами, а также проекты, которые я делал для друзей и себя. 
 
 ### Чем я пользуюсь:  
 
@@ -27,4 +27,4 @@
 
 ### Соц. сети:  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VladislavKondratjev)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vkondratjev/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/VladislavKondratjev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vkondratjev/) 
