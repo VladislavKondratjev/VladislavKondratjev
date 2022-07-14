@@ -14,10 +14,7 @@
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
 <a href="https://webpack.js.org/" title="webpack"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/webpack.svg" alt="webpack" width="21px" height="21px"></a>
 <a href="https://eslint.org/" title="ESLint"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/eslint.svg" alt="ESLint" width="21px" height="21px"></a>
-<a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" width="21px" height="21px"></a>
-
-
-### Статистика:  
+<a href="https://prettier.io/" title="Prettier"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/prettier.svg" alt="Prettier" width="21px" height="21px"></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavKondratjev)](https://github.com/anuraghazra/github-readme-stats)
 
